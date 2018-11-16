@@ -1,6 +1,6 @@
 # ExpandableTextView
 
-/**
+
  * @author gzc
  * github原始地址
  * https://github.com/Manabu-GT/ExpandableTextView
@@ -12,4 +12,4 @@
  *  3、在RecyclerView使用的时候，展开和收起状态未保存问题
  *  4、TextView不支持<img>标签，解决展示图片问题。
  *  5、展开和收缩实现折叠效果，再文字满一行才换行，不满一行，展开和文字在同一行
- */
+
